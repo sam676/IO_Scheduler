@@ -1,6 +1,6 @@
 //Stephanie Michalowicz
 //Operating Systems
-//Lab 4 - I/O Scheduler
+//I/O Scheduler
 
 #include <iostream>
 #include <stdio.h>
